@@ -1,4 +1,4 @@
 # Hola-mundo
 repositorio prueba
 
-Autor: LAra LAgunes Miguel Alejandro
+Autor: Lara LAgunes Miguel Alejandro
